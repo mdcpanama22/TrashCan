@@ -4,7 +4,7 @@ thec> thec> thec thec thec thec thec thec thec thec
 thed thed thed thed thed thed thed thed thed thed
 thee thee thee thee thee thee thee thee thee thee
 thef thef thef thef thef thef thef thef thef thef
-theg theg theg theg theg theg theg theg theg theg
-theh theh <theh <theh <theh> theh> theh> theh theh theh
+theg theg theg theg theg theg theg theg theg <theg
+theh> theh <theh <theh <theh> theh> theh> theh theh theh
 thei thei >thei< thei thei thei thei thei thei thei
 thej thej thej thej thej thej thej thej thej thej
